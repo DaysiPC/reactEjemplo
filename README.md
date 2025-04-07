@@ -1,3 +1,4 @@
+hola,este es un proyecto de react para mi expo
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
